@@ -1,0 +1,14 @@
+*{margin: 0%; padding: 0;}
+#header{
+         background-color: blue;
+         height: 50px;
+         
+}
+#logo{}
+#right{
+    
+}
+#list{
+    inline-size: 0%;
+    padding-left: 25px;
+}
